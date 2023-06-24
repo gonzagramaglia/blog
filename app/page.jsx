@@ -1,7 +1,7 @@
 import Link from 'next/link';
 
 export const metadata = {
-  title: 'gonza | Blog',
+  title: '✍🏼 Blog',
 }
 
 export default function Home() {

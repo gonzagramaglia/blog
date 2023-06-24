@@ -2,7 +2,7 @@
 import Link from "next/link"
 
 export const metadata = {
-    title: 'gonza | Health'
+    title: '✍🏼 Health'
   }
 
 const Health = () => {

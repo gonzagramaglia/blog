@@ -2,7 +2,7 @@
 import Link from "next/link"
 
 export const metadata = {
-    title: 'gonza | CSS'
+    title: '✍🏼 CSS'
 }
 
 const CSS = () => {

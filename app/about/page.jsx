@@ -1,7 +1,7 @@
 import Link from "next/link"
 
 export const metadata = {
-    title: 'gonza | About',
+    title: '✍🏼 About',
 }
 
 const AboutPage = () => {

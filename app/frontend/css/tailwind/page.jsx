@@ -2,7 +2,7 @@
 import Link from "next/link"
 
 export const metadata = {
-    title: 'gonza | Tailwind CSS'
+    title: '✍🏼 Tailwind CSS'
 }
 
 const Tailwind = () => {

@@ -2,7 +2,7 @@
 import Link from "next/link"
 
 export const metadata = {
-    title: 'gonza | Next.js'
+    title: '✍🏼 Next.js'
 }
 
 const Next = () => {
