@@ -21,8 +21,11 @@ export default function Home() {
         </Link>
       </div>
       <Link href={'/frontend'} className='mt-14 ml-[-10px]' >
-          <h2 className='text-lg' >• <span className='underline underline-offset-2 hover:underline-offset-1 decoration-amber-500 hover:text-amber-200' >frontend</span></h2>
-        </Link>
+        <h2 className='text-lg' >• <span className='underline underline-offset-2 hover:underline-offset-1 decoration-amber-500 hover:text-amber-200' >frontend</span></h2>
+      </Link>
+      <Link href={'/fitness'} className='ml-[-10px]' >
+        <h2 className='text-lg' >• <span className='underline underline-offset-2 hover:underline-offset-1 decoration-amber-500 hover:text-amber-200' >fitness</span></h2>
+      </Link>
       <footer className='mt-auto mb-[50px]' >
           <h3 className='text-xs' > 
             Written by <Link href='/about' className='underline underline-offset-2 hover:underline-offset-1 decoration-amber-500 hover:text-amber-200' >gonza</Link>
